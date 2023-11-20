@@ -1,8 +1,6 @@
-## Programación 2 - Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas - 2023
-
+##Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas - 2023
+## Programación 2 
 Para cada uno de los siguientes problemas Implementarlos en Java.
-
-## Folder Structure
 
 1. Fútbol 5
 Un club de fútbol 5 necesita un sistema que le permita llevar control de sus socios y
